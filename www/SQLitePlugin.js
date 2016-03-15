@@ -600,7 +600,7 @@
     }
   };
 
-  root.sqlitePlugin = {
+  root.RASqlitePlugin = {
     sqliteFeatures: {
       isSQLitePlugin: true
     },
